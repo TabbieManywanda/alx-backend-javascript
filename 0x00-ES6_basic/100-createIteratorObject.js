@@ -7,4 +7,5 @@ export default function createIteratorObject(report) {
       count += 1;
     }
   }
+  return result;
 }
