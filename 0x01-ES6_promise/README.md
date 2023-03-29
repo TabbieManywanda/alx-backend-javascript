@@ -1,6 +1,6 @@
-#ES6 Promises
+# ES6 Promises
 
-##Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -11,7 +11,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * The await operator
 * How to use an async function
 
-##Requirements
+## Requirements
 
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 * Allowed editors: vi, vim, emacs, Visual Studio Code
