@@ -7,3 +7,7 @@ Parameters
 
 - [0x01. ES6 Promises](0x01-ES6_promise)
 What are promises and how are they used?
+
+-[0x02. ES6 classes](0x02-ES6_classes)
+What is a class in JavaScript and how to define one.
+Adding methods to a class.
