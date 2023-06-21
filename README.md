@@ -18,3 +18,6 @@ Typed arrays.
 
 - [0x05. NodeJS Basics](./0x05-Node_JS_basic)
 Running JS using NodeJS.
+
+- [0x06. Unittests in JS](./0x06-unittests_in_js)
+How to use Mocha to write a test suite
